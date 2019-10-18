@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0270_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socClientDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>socClientDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClientSocket">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAgACAQAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsocClientApp">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>socClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsocClientDlg">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CsocClientDlg::__unnamed_enum_0271_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socClientDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAAGQCSAQAgIgBDgCAEAKACAAUAyRAgAZMSAUIAA=</HashCode>
+      <FileName>socClientDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MyMessage">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ReceivMessages">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyStart">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameStart">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyCount">
+    <Position X="2.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendCount" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyRock" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAMAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyRock" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyScissors" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyScissors" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyPaper" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyPaper" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyPortNum" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PortNum" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyEnemy1Value">
+    <Position X="4" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyEnemy1Value" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyEnemy2Value">
+    <Position X="5.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyEnemy2Value" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MyResult">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAACAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SendMyResult" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientSocket.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
